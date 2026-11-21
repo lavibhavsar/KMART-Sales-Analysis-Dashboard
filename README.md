@@ -26,13 +26,14 @@ Weakest months were Nov 2024 ($92.6K) and Jun 2025 ($93.8K).
 
 Risk
 The top 10% of transactions generate 58% of revenue, so results are sensitive to a small number of large Home & Living orders. That category explains about 61% of the Jan-Jun 2025 decline.
+
 Business Recommendations
-Protect the Big 5 categories. Prioritise stock availability, range depth and promotions in Clothing, Home & Living, Toys, Footwear and Beauty, which carry 81% of revenue.
-Defend the core four states and test growth elsewhere. Use low-cost pilots (online, click and collect) in SA, TAS and ACT before committing to new store investment.
-Scale Online selectively. It is outgrowing Store, yet its share is just 7% in ACT, 10% in SA and 11% in QLD. Accessories, Electronics and Stationery already have the highest online share (23-27%).
-Engineer the big-basket months. Review what drove Aug 2025 (promotions, stock, large Home & Living orders) and replicate it, while building campaigns for the Nov and Jun troughs.
+Protect the Big 5 categories. Prioritise stock availability, range depth and promotions in Clothing, Home & Living, Toys, Footwear and Beauty, which carry 81% of revenue. Defend the core four states and test growth elsewhere. Use low-cost pilots (online, click and collect) in SA, TAS and ACT before committing to new store investment.
+Scale Online channel selectively. It is outgrowing Store, yet its share is just 7% in ACT, 10% in SA and 11% in QLD. Accessories, Electronics and Stationery already have the highest online share (23-27%).
+Review what drove Aug 2025 (promotions, stock, large Home & Living orders) and replicate it, while building campaigns for the Nov and Jun troughs.
 Lift value in high-traffic, low-ticket categories. Use bundles and add-ons in Baby & Nursery, and review the range in Party & Gift Wrap and Accessories, which fell 39% and 36% in Jul-Dec 2025.
 Strengthen the data foundation. Add margin, customer ID and returns data to move from revenue analysis to profitability and customer insight.
+
 Data Notes
 Revenue only: no cost or margin data, so profitability is not assessed.
 26 transactions are exactly $1.00 and 9.7% are under $10; these may be returns or placeholders and should be validated.
